@@ -14,19 +14,13 @@ I am 23 and  I work as a foreman in the woodworking workshop. I have good teamwo
 * Git  
 ## **Code example**
 ```html
-<div class="rectangle">.</div>
-<style>
-.rectangle{
-  background-color: #FA7268;
-  color: #FFFFFF;
-  width: 230px;
-  height: 25px;
-  padding: 20px;
-  margin: 10px;
-  border: 2px solid #9C27B0;
-  font-size: 20px;
-}
-</style>
+<section>
+
+<h1>Заголовок</h1>
+
+<p>Параграф</p>
+
+</section>
 ```
 ## **Work experience**
 Nothing yet.  
