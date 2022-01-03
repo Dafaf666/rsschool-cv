@@ -13,7 +13,8 @@ I am 23 and  I work as a foreman in the woodworking workshop. I have good teamwo
 * JavaScript(Basic)  
 * Git  
 ## **Code example**
-```<div class="rectangle"> </div>
+```
+<div class="rectangle">.</div>
 <style>
 .rectangle{
   background-color: #FA7268;
