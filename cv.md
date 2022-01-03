@@ -12,7 +12,7 @@ I am 23 years old, I work as a workshop foreman in the woodworking workshop. Her
 * Css  
 * JavaScript(Basic)  
 * Git  
-## **Code Example**
+## **Code example**
 ```<div class="rectangle"> </div>
 <style>
 .rectangle{
@@ -27,6 +27,13 @@ I am 23 years old, I work as a workshop foreman in the woodworking workshop. Her
 }
 </style>
 ```
+## **Work experience**
+Nothing yet.  
+## **Education**
+**University:**
+Belarusian-Russian University (Auto-Mechanics faculty)
+## **Language**
+English level - A2(Pre-Intermediate)
 
 
 
