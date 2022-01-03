@@ -6,7 +6,7 @@
 **Telegram:** @dafaf666  
 **Github:** Dafaf666  
 ## **About me**
-I am 23 years old, I work as a workshop foreman in the woodworking workshop. Here I got good teamwork skills. This is my Allocation after university and it's coming to an end.I was looking for a new job for myself and came across rs school. I was interested in the profession of Frontend Developer. I think that my curiosity and diligence will help me achieve high results in this area. my goal is to earn more money and do something really interesting and useful.
+I am 23 and  I work as a foreman in the woodworking workshop. I have good teamwork skills. This is my necessary first job after graduating university and it's coming to an end. I was looking for a new job for myself and came across rs school. I was interested in the job of Frontend Developer. I think that my curiosity and persistency will help me achieve high results in this area. My goal is to take more money and do something really interesting and useful.
 ## **Skills**
 * HTML  
 * Css  
