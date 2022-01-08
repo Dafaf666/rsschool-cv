@@ -1,1 +1,1 @@
-https://Dafaf666.github.io/rsschool-cv/cv
+https://Dafaf666.github.io/rsschool-cv/
