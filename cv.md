@@ -17,9 +17,9 @@ I am 23 and  I work as a foreman in the woodworking workshop. I have good teamwo
 ```html
 <section>
 
-<h1>Заголовок</h1>
+<h1>Heading</h1>
 
-<p>Параграф</p>
+<p>Paragraph</p>
 
 </section>
 ```
