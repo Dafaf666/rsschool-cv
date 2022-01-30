@@ -18,13 +18,8 @@ body {
   display: flex;
   align-items: flex-start;
 }
-.all {
-  /* background-color: rgb(160, 145, 100); */
-  padding: 20px 20px;
-  margin-bottom: 20px;
- 
-}
-.right {
+
+.row__right {
   margin-left: 20px;
   margin-right: 100px;
   padding: 20px;
@@ -36,17 +31,17 @@ body {
 header {
   display: block;
 }
-.navigation {
+.nav {
   background: rgb(150, 141, 137);
 }
-.roof {
+.nav__list {
   display: flex;
   justify-content: space-between;
   padding: 30px;
   list-style-type: none;
   list-style-image: none;
 }
-.roof_link {
+.nav__link {
   position: relative;
 
   text-decoration: none;
@@ -59,8 +54,9 @@ header {
   max-width: 1440px;
   margin: 0;
 }
-.contact {
-  padding: 10px;
+.row__contact {
+
+  margin: 20px;
 }
 a {
   color: #080808;
@@ -78,15 +74,18 @@ h1 {
 html {
   scroll-behavior: smooth;
 }
-.footer__container {
+.footer {
   display: flex;
   justify-content: space-between;
-
-  
-}
-footer {
   margin: 20px;
-  padding: 40px;
-  
 }
-
+.footer__img {
+  width: 200px;
+}
+.row__list {
+  list-style-type: disc;
+}
+font-weight: bold;
+    font-size: 30px;
+    line-height: 60px;
+    text-align: start;
